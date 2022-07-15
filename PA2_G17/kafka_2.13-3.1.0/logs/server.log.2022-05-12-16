@@ -1,0 +1,1 @@
+[2022-05-12 16:00:34,306] INFO [GroupMetadataManager brokerId=1] Group consumer transitioned to Dead in generation 4 (kafka.coordinator.group.GroupMetadataManager)

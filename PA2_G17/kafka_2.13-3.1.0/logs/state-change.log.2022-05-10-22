@@ -1,0 +1,3 @@
+[2022-05-10 22:58:11,109] INFO [Broker id=2] Add 0 partitions and deleted 6 partitions from metadata cache in response to UpdateMetadata request sent by controller 0 epoch 3 with correlation id 16 (state.change.logger)
+[2022-05-10 22:58:11,133] INFO [Broker id=2] Handling StopReplica request correlationId 17 from controller 0 for 3 partitions (state.change.logger)
+[2022-05-10 22:58:11,151] INFO [Broker id=2] Handling StopReplica request correlationId 18 from controller 0 for 3 partitions (state.change.logger)
